@@ -1,7 +1,7 @@
 ![logo](lecture/static/Logo2.png)
 
 
-## "What's in this repository?"
+## "Identification of Disease Relevant Cell Types?"
 
 In this course we will review the fundamental concepts and application of single-cell transcriptomics in genetic research,
 
