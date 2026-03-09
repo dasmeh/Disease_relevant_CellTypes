@@ -1,12 +1,8 @@
 format: jb-book
-root: general_information/index
+root: intro
+
 chapters:
-- file: general_information/overview
-- file: general_information/setup
-- file: general_information/intro
-- file: content/intro_content
-  sections:
-  - file: content/static_content
-  - file: content/interactive_notebook
-- file: general_information/CoC
-- file: general_information/dei
+  - file: chapter1_intro
+  - file: chapter2_celltypes
+  - file: chapter3_disease
+  - file: chapter4_atlases
