@@ -34,11 +34,6 @@ html:
   analytics: 
     google_analytics_id       : ""  # A GA id that can be used to track book views.
 
-  theme:
-    name: sphinx_book_theme
-  use_repository_button: true
-  use_issues_button: true
-
 #######################################################################################
 # Launch button settings
 launch_buttons:
