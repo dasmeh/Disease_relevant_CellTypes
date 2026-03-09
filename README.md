@@ -9,7 +9,7 @@ This course introduces students to single-cell transcriptomics and how to identi
 
 ## Course Chapters
 
-1. [Introduction](chapter1.md)
+1. [Introduction](lecture/chapter1_intro.md)
 2. [What is a Cell Type?](chapter2.md)
 3. [Disease-relevant Cell Types](chapter3.md)
 4. [Current Atlases](chapter4.md)
