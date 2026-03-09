@@ -1,4 +1,4 @@
-![logo](lecture/static/logo.png)
+![logo](lecture/static/Logo2.png)
 
 
 ## "What's in this repository?"
