@@ -5,6 +5,8 @@
 
 In this course we will review the fundamental concepts and application of single-cell transcriptomics in genetic research,
 
-## Seurat Tutorial
+<h3>Seurat Tutorial</h3>
 
-[![Seurat Tutorial](https://img.youtube.com/vi/xbX49h7BiUU/0.jpg)](https://www.youtube.com/watch?v=xbX49h7BiUU)
+<a href="https://www.youtube.com/watch?v=xbX49h7BiUU" target="_blank">
+  <img src="https://img.youtube.com/vi/xbX49h7BiUU/maxresdefault.jpg" width="800">
+</a>
